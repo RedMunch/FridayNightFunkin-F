@@ -1,5 +1,5 @@
 # FridayNightFunkin-F
-In this mod, the arrows during your turn are "flipped", characters like Boyfriend and Pico get recolored, and most charts are faster. In addition, a few charts are slightly edited.
+You can use the mod in anyway you like, whether it's commercially or not. You also can use the mod without giving credit.
 
 How to install mod:
 1. Download ZIP.
